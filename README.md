@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there! I'm  @KushtrimShabani
+----
+### About Me
+
+Software Engineer passionate about crafting responsive web applications. Constantly learning and adapting to new technologies. Committed to building robust and user-centric solutions.
+
+- 💻 Currently crafting cool code.
+- 📚 Learning something new every day.
+- 👯 Open to collaborations on exciting projects.
+- 💬 Ask me anything about tech!
+- 📫 Reach me via email at [kushtrimshabanii@outlook.com](mailto:kushtrimshabanii@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kushtrimshabani/).
+------
+### Skills
 <div >
 <img alt="Static Badge" height="28px" src="https://img.shields.io/badge/React.js-292929?logo=react">
 <img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Type%20Script-377CC8?logo=TypeScript&logoColor=white">
@@ -17,16 +29,9 @@
 </div>
 
 
- I am a Software Engineer adept at building responsive web applications. Passionate about learning new technologies, bringing ideas to life, and working with dedicated teams to build efficient and robust applications suited to the user's needs.
+-------
 
 
-- 💻 Currently crafting cool code.
-- 📚 Learning something new every day.
-- 👯 Open to collaborations on exciting projects.
-- 💬 Ask me anything about tech!
-- 📧 Reach me via email or LinkedIn.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with coding projects!
 
   
 <!--
