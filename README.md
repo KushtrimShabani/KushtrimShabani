@@ -10,6 +10,7 @@ Software Engineer passionate about crafting responsive web applications. Constan
 - 💬 Ask me anything about tech!
 - 📫 Reach me via email at [kushtrimshabanii@outlook.com](mailto:kushtrimshabanii@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kushtrimshabani/).
 ------
+
 ### Skills
 <div >
 <img alt="Static Badge" height="28px" src="https://img.shields.io/badge/React.js-292929?logo=react">
@@ -31,10 +32,14 @@ Software Engineer passionate about crafting responsive web applications. Constan
 
 -------
 
+![Kushtrim's github stats](https://github-readme-stats.vercel.app/api?username=KushtrimShabani&show_icons=true) 
+------
 
 
-  
 <!--
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushtrimShabani&layout=compact&hide=css,html,shell)
+
+
 - 🔭 I’m currently delving into the world of cutting-edge software projects, expanding my horizons.
 - 🌱 I’m currently learning the ever-evolving landscape of new programming languages and tech stacks.
 - 👯 I’m looking to collaborate on innovative and impactful open-source initiatives that drive change.
