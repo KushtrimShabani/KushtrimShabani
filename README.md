@@ -31,7 +31,7 @@ Software Engineer passionate about crafting responsive web applications. Constan
 
 
 -------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushtrimShabani&layout=compact&hide=css,html,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushtrimShabani&layout=compact&hide=css,html,shell&jupyter%20notebook&size_weight=0.5&count_weight=0.5&card_width=400&theme=radical)
 ------
 
 
