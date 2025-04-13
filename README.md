@@ -1,91 +1,64 @@
-## Hi there! I'm  @KushtrimShabani
-----
-### About Me
+# Hi there! I'm @KushtrimShabani
 
-Software Engineer passionate about crafting responsive web applications. Constantly learning and adapting to new technologies. Committed to building robust and user-centric solutions.
+---
 
-- 💻 Currently crafting cool code.
-- 📚 Learning something new every day.
-- 👯 Open to collaborations on exciting projects.
-- 💬 Ask me anything about tech!
-- 📫 Reach me via email at [kushtrimshabanii@outlook.com](mailto:kushtrimshabanii@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kushtrimshabani/).
-------
+## 🚀 About Me
 
-### Skills
-<div >
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/React.js-292929?logo=react">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Type%20Script-377CC8?logo=TypeScript&logoColor=white">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Next.Js-black?logo=next.js">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/React%20Native-292929?logo=REACT">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Three.js-black?logo=three.js">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/JavaScript-383936?logo=JavaScript">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/TailwindCss-%23193052?logo=TailwindCss">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/PHP-7A86B8?logo=php&logoColor=white">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/.Net Core-613494?logo=.net">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Wordpress-28799E?logo=Wordpress">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Stripe-6860FF?logo=Stripe&logoColor=white">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Firebase-white?logo=Firebase">
-<img alt="Static Badge" height="28px" src="https://img.shields.io/badge/Figma-252525?logo=figma">
+I'm a passionate Software Engineer who thrives on building innovative web applications and robust cloud solutions. My journey spans creating visually stunning frontends and designing efficient backend systems. I'm always eager to learn, collaborate, and experiment with cutting-edge technologies!
+
+- 💻 Currently crafting cool code with a focus on both frontend dynamics and backend resilience.
+- 📚 Continuously learning new frameworks and paradigms.
+- 👯 Open to collaborations on exciting projects spanning the full stack.
+- 💬 Ask me anything about tech, cloud computing, or coding best practices!
+- 📫 Connect with me via [email](mailto:kushtrimshabanii@outlook.com) or on [LinkedIn](https://www.linkedin.com/in/kushtrimshabani/).
+
+---
+
+## 🌟 Skills & Technologies
+
+<div>
+  <!-- Frontend -->
+  <img alt="React.js" height="28px" src="https://img.shields.io/badge/React.js-292929?logo=react">
+  <img alt="TypeScript" height="28px" src="https://img.shields.io/badge/TypeScript-377CC8?logo=TypeScript&logoColor=white">
+  <img alt="Next.js" height="28px" src="https://img.shields.io/badge/Next.Js-black?logo=next.js">
+  <img alt="React Native" height="28px" src="https://img.shields.io/badge/React%20Native-292929?logo=REACT">
+  <img alt="TailwindCSS" height="28px" src="https://img.shields.io/badge/TailwindCss-%23193052?logo=TailwindCss">
+  
+  <!-- Backend -->
+  <img alt="Node.js" height="28px" src="https://img.shields.io/badge/Node.js-5FA04E?logo=Node.js&logoColor=white">
+  <img alt="NestJS" height="28px" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white">
+  <img alt="PHP" height="28px" src="https://img.shields.io/badge/PHP-7A86B8?logo=php&logoColor=white">
+  <img alt=".Net Core" height="28px" src="https://img.shields.io/badge/.Net%20Core-613494?logo=.net">
+  
+  <!-- Other Technologies -->
+  <img alt="Three.js" height="28px" src="https://img.shields.io/badge/Three.js-black?logo=three.js">
+  <img alt="WordPress" height="28px" src="https://img.shields.io/badge/Wordpress-28799E?logo=Wordpress">
+  <img alt="Stripe" height="28px" src="https://img.shields.io/badge/Stripe-6860FF?logo=Stripe&logoColor=white">
+  <img alt="Firebase" height="28px" src="https://img.shields.io/badge/Firebase-white?logo=Firebase&logoColor=yellow">
+  <img alt="Figma" height="28px" src="https://img.shields.io/badge/Figma-252525?logo=figma">
+  
+  <!-- Cloud -->
+  <img alt="Google Cloud" height="28px" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white">
 </div>
 
+---
 
--------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushtrimShabani&layout=compact&hide=css,html,shell&jupyter%20notebook&size_weight=0.5&count_weight=0.5&card_width=400&theme=radical)
-------
+## 🌐 Frontend Development
 
+I specialize in crafting intuitive, responsive, and aesthetically pleasing user interfaces. My expertise in frameworks such as React, Next.js, and React Native enables me to build seamless applications across web and mobile platforms. I focus on delivering clean, modular, and efficient code that enhances user experience.
 
-<!--
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushtrimShabani&layout=compact&hide=css,html,shell)
-  ![Kushtrim's github stats](https://github-readme-stats.vercel.app/api?username=KushtrimShabani&show_icons=true) 
+---
 
+## ⚙️ Backend Development
 
+My backend expertise includes creating scalable server-side applications using Node.js and NestJS. I build robust APIs, optimize database queries, and design systems that handle high volumes of data effortlessly. Additionally, I have hands-on experience with PHP and .NET Core, contributing to versatile and secure backend solutions.
 
-- 🔭 I’m currently delving into the world of cutting-edge software projects, expanding my horizons.
-- 🌱 I’m currently learning the ever-evolving landscape of new programming languages and tech stacks.
-- 👯 I’m looking to collaborate on innovative and impactful open-source initiatives that drive change.
-- 🤔 I’m always seeking guidance from the tech community for enhancing my problem-solving skills.
-- 💬 Ask me about my latest coding escapades or anything tech-related; I'm always up for a tech talk!
-- 📫 Reach me via email at [YourEmail@example.com](mailto:YourEmail@example.com) or connect with me on LinkedIn.
-- ⚡ Fun fact: I enjoy creating tech-themed memes and dabbling in sci-fi literature when I'm not coding!
+---
 
-- 🔭 Currently cooking up some mind-bending code magic in the tech cauldron!
-- 🌱 Learning the art of speaking in languages - not just JavaScript, but human ones too!
-- 👯 Seeking fellow wizards and witches to brew some coding potions together.
-- 🤔 Could definitely use some magical guidance in mastering the dark arts of debugging!
-- 💬 Ping me for a nerdy chat about AI, comics, or the latest tech breakthroughs.
-- 📫 Message me via owl (or just email at [YourEmail@example.com](mailto:YourEmail@example.com)) or cast a LinkedIn spell!
-- 😄 Pronouns: He/Him/They
-- ⚡ Fun fact: I once coded an app that talks to house plants—yep, they give gardening advice!
+## ☁️ Cloud & DevOps
 
-- 💻 Currently crafting cool code.
-- 📚 Learning something new every day.
-- 👯 Open to collaborations on exciting projects.
-- 💬 Ask me anything about tech!
-- 📧 Reach me via email or LinkedIn.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with coding projects!
+Leveraging Google Cloud Platform, I design and deploy scalable solutions that bridge the gap between robust cloud infrastructures and innovative application development. From Compute Engine to Cloud Functions, I integrate cutting-edge cloud technologies to enhance project performance and reliability.
 
-- - 💻 Conjuring code wonders in the digital realm!
-- 🌟 Adventuring through the vast galaxy of tech discoveries!
-- 🚀 Eager to co-pilot on mind-blowing coding expeditions.
-- 🧠 Curiously seeking wisdom to unlock programming mysteries.
-- 💬 Let's geek out over all things tech or the latest sci-fi stories!
-- 📧 Let's connect! Send a digital pigeon (or just an email or LinkedIn message).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once programmed a mini rocket launcher (for fun, of course)! 
+---
 
-
-**KushtrimShabani/KushtrimShabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and reach out if you'd like to collaborate on a project or simply chat about tech!
